@@ -16,9 +16,9 @@ struct FeaturesPage2: View {
                 .padding(.bottom)
                 .padding(.top, 100)
             
-            FeatureCard(iconName: "wrench.adjustable.fill", description: "Store Application:\nFor my Software Development class (CPSC 329), I was assigned to collaboratively develop a server-based Java application with the intention of tapping into XML files to store and retrieve data.\nThis project can be viewed on my GitHub at Robles54.")
-            FeatureCard(iconName: "wrench.adjustable.fill", description: "Hex Game:\nThis is a simple game that I created using Java with the intention of making an oppoent AI that'll attempt it's best at defeating the player.\nThis game can be viewed on my GitHub at Robles54.")
-            FeatureCard(iconName: "wrench.adjustable.fill", description: "Photo Gallary:\nThis project served as my first attempt at learning the bootstrap framework. I was able to create a responsive photo gallery that displays a grid of images.\nThis project can be viewed on my GitHub at Robles54.")
+            FeatureCard(iconName: "wrench.adjustable.fill", description: "Store Application:\nFor my Software Development class, I was assigned to collaboratively develop a server-based Java application with the intention of tapping into XML files to store and retrieve data.")
+            FeatureCard(iconName: "wrench.adjustable.fill", description: "Hex Game:\nThis is a simple game that I created using Java with the intention of making an oppoent AI that'll attempt it's best at defeating the player.")
+            FeatureCard(iconName: "wrench.adjustable.fill", description: "Photo Gallary:\nThis project served as my first attempt at learning the bootstrap framework.")
             
             Spacer()
         }
